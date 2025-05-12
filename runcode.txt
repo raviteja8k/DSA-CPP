@@ -1,0 +1,9 @@
+to run any cpp file
+- open terminal
+- run the command 'g++ filename.cpp'
+- it creates a a.exe file
+- in terminal, run command 'a.exe'
+
+OR
+
+- open terminal and run the command 'g++ filename.cpp && a.exe' 
