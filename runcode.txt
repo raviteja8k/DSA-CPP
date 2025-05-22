@@ -7,3 +7,7 @@ to run any cpp file
 OR
 
 - open terminal and run the command 'g++ filename.cpp && a.exe' 
+
+
+files starting with algo_ are leet code problems. Not optimised to run on local.
+Copy paste the solution in leetcode URL given in file
